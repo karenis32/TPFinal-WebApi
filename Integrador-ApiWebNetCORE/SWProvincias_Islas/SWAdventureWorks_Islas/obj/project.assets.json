@@ -5956,11 +5956,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\SWAdventureWorks_Islas.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\SWAdventureWorks_Islas.csproj",
       "projectName": "SWAdventureWorks_Islas",
-      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\SWAdventureWorks_Islas.csproj",
+      "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\SWAdventureWorks_Islas.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\SWAdventureWorks_Islas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

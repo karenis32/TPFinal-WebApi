@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using SWAdventureWorks_Islas.Models;
 using System.Collections.Generic;
 using System.Linq;
@@ -61,6 +62,37 @@ namespace SWAdventureWorks_Islas.Controllers
             context.Departments.Add(department);
             context.SaveChanges();
             return Ok();
+        }
+
+        // PUT api/department/2
+        [HttpPut("{id}")]
+        public ActionResult Put(int id, [FromBody] Department department)
+        {
+            if (id != department.DepartmentId)
+            {
+                return BadRequest();
+            }
+
+            context.Entry(department).State = EntityState.Modified;
+            context.SaveChanges();
+
+            return NoContent();
+
+        }
+
+        //DELETE api/department/2
+        [HttpDelete("{id}")]
+        public ActionResult<Department> Delete(Department department)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            context.Departments.Remove(department);
+            context.SaveChanges();
+
+            return department;
         }
     }
 }

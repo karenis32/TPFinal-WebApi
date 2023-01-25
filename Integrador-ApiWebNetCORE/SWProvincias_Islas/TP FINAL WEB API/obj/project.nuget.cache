@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTK9GVTpeqPr1lhdwa7MbxH848u1uu5Tg/Pt5t/y+kQ8CyvQFMgKDkF/XQXZDK2M1Y5ponHdszCrNI9pV8VR2A==",
+  "dgSpecHash": "dty1NPlwojP0HyHg0V2qvti4JlCYFqqoIt0CP0S2w8UAp+3ubMlPV4XC520k5/0wDoxVzdaadn/AcuQ9ww2KBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",

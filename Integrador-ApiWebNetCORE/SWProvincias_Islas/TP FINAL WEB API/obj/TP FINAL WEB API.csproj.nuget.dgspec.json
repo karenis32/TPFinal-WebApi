@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
         "projectName": "TP FINAL WEB API",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\TP FINAL WEB API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\ReposKaren\\TPFinal-WebApi\\Integrador-ApiWebNetCORE\\SWProvincias_Islas\\TP FINAL WEB API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
